@@ -1,0 +1,60 @@
+.service {
+    margin-bottom: 20px;
+    padding-top: 35px;
+    display: flex;
+    gap: 10px;
+    img {
+        width: 580px;
+        height: 480px;
+    }
+    .text {
+        width: 800px;
+        padding: 0 15px;
+    }
+    .price {
+        .price_info {
+            display: grid;
+        }
+        font-size: 16px;
+        display: flex;
+        gap: 200px;
+        align-items: center;
+        h1 {
+            font-weight: 300;
+            display: grid;
+        }
+        span {
+            color:#27AE60;
+        }
+    }
+}
+
+@media (max-width: 1024px) {
+    section {
+        max-width: 350px;
+        margin: auto;
+        .choice {
+            display: none;
+        }
+        .content {
+            margin: auto;
+        }
+    }
+    .service {
+        display: grid;
+        img {
+                width: 350px;
+                height: 225px;
+            }
+        .text {
+            font-size: 14px;
+            font-weight: 400;
+            width: 330px;
+            h1 {
+               font-size: 24px; 
+            }
+        .price {
+            gap: 10px;
+        }
+    }
+}}
