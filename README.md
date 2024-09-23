@@ -1,3 +1,8 @@
+https://non-metallic-materials-6rqk0si85-monerus-projects.vercel.app/ 
+
+figma - https://www.figma.com/design/zaHxUROcEHYbEurW6pflRT/Многостраничный-сайт---Нерудные-материалы?node-id=998-367&node-type=frame&t=6wKF9hWsPisWQqlk-0
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
